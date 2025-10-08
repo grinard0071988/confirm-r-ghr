@@ -25,8 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>
-          Trying to display <code>src/App.jsx</code> react App on Live on
-          Github.
+          Trying to display <code>SIBA007</code> react App on Live on Github.
         </p>
       </div>
       <p className="read-the-docs">
